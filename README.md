@@ -16,5 +16,4 @@ I enjoy turning ambitious ideas into focused software: clear interfaces, practic
 
 `TypeScript` · `React` · `Node.js` · `Electron` · `C# / .NET MAUI` · `Kotlin / Compose` · `Python`
 
-Each featured repository includes setup documentation and automated checks. More about me and my work: **[webgrga.com](https://webgrga.com/)**.
-
+Each featured repository includes setup documentation and automated checks. More about me and my work: **[rokogrga.com](https://rokogrga.com/)**.
