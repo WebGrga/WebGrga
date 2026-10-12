@@ -1,19 +1,25 @@
 # Roko Grga
 
-Full-stack developer building polished products across web, mobile, and desktop.
+AI engineer building agentic workflows, with a background in professional full-stack development.
 
-I enjoy turning ambitious ideas into focused software: clear interfaces, practical architecture, and code that holds up beyond the demo. I work primarily with TypeScript and React, with hands-on experience across .NET MAUI, Kotlin, Python, and Electron.
+I build the systems around model outputs: bounded context, structured validation, controlled execution, human review, recoverable state, and measurable outcomes. My independent work spans AI developer tools, deployed decision experiments, and research automation.
 
-## Selected work
+Before this work, I spent two years as the sole developer at 4Studio, taking client requirements and Figma designs through implementation, integration, deployment, and maintenance. I graduated from RIT Croatia in Web & Mobile Computing and supported Java and Python coursework as a programming teaching assistant.
 
-- **[Frontend Director](https://github.com/WebGrga/frontend-director)** — a visual, AI-assisted React editor with bounded source access, safe patches, and branch-preserving undo.
-- **[ToDoOfSorts](https://github.com/WebGrga/todo-of-sorts)** — an offline-first .NET MAUI task app with tactile completion, recurrence, reminders, and local statistics.
-- **[Gamefinder](https://github.com/WebGrga/gamefinder)** — a Python trend radar that ranks indie games using explainable YouTube creator-opportunity signals.
-- **[GearLog](https://github.com/WebGrga/gearlog)** — an offline Android inventory built with Kotlin, Jetpack Compose, Room, and reactive Flow state.
-- **[Momentum Lab](https://github.com/WebGrga/momentum-lab)** — a local-first Electron workspace for experiments, routines, notes, and progress reviews.
+## Featured AI projects
 
-## Toolbox
+- **[Frontend Director](https://github.com/WebGrga/frontend-director)**: AI-powered React editor with bounded context, validated source edits, user-approved structural builds, reversible history, and 125 automated tests. An engineering prototype with explicit source and execution boundaries.
+- **[BTC–Jev](https://github.com/WebGrga/btc-jev-signal)**: deployed AI decision experiment with scheduled market processing, deterministic guardrails, daily request limits, auditable simulated outcomes, and a [public evaluation dashboard](https://lab.rokogrga.com/btc-jev). Paper-only; it does not place orders. Archived direction forecasts are separate from current paper results.
+- **[Problem Hunter](https://github.com/WebGrga/problemhunter)**: experimental AI research pipeline with source-backed findings, structured evaluations, caching, cost controls, and JSON/Markdown audit reports. Human review remains necessary; reliable autonomous business-opportunity discovery has not been established.
 
-`TypeScript` · `React` · `Node.js` · `Electron` · `C# / .NET MAUI` · `Kotlin / Compose` · `Python`
+## Engineering focus
 
-Each featured repository includes setup documentation and automated checks. More about me and my work: **[rokogrga.com](https://rokogrga.com/)**.
+Context engineering, structured outputs and JSON Schema, model-output validation, bounded workflow orchestration, approval steps, evaluation, audit records, and API usage controls.
+
+**Main tools:** TypeScript, Python, React, Node.js, SQL/SQLite, Cloudflare Workers, Cloudflare D1, GitHub Actions, Netlify, and Vite.
+
+## Full-stack foundation
+
+Additional work includes [ToDoOfSorts](https://github.com/WebGrga/todo-of-sorts), [GearLog](https://github.com/WebGrga/gearlog), [Gamefinder](https://github.com/WebGrga/gamefinder), and [Momentum Lab](https://github.com/WebGrga/momentum-lab).
+
+[Portfolio](https://rokogrga.com) / [RG Lab](https://lab.rokogrga.com) / [LinkedIn](https://www.linkedin.com/in/roko-grga/)
